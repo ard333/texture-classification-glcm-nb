@@ -3,7 +3,7 @@
  *
  */
 
-package id.web.ard.textureclassification.glcm.nb.model;
+package id.web.ard.textureclassification.glcmnb.model;
 
 /**
  *

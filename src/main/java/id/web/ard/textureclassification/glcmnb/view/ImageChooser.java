@@ -3,10 +3,10 @@
  *
  */
 
-package id.web.ard.textureclassification.glcm.nb.view;
+package id.web.ard.textureclassification.glcmnb.view;
 
 
-import id.web.ard.textureclassification.glcm.nb.filter.ImageFilter;
+import id.web.ard.textureclassification.glcmnb.filter.ImageFilter;
 import javax.swing.JFileChooser;
 
 /**

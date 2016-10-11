@@ -3,7 +3,7 @@
  *
  */
 
-package id.web.ard.textureclassification.glcm.nb.filter;
+package id.web.ard.textureclassification.glcmnb.filter;
 
 
 import java.io.File;

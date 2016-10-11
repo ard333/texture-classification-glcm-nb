@@ -3,7 +3,7 @@
  *
  */
 
-package id.web.ard.textureclassification.glcm.nb.view;
+package id.web.ard.textureclassification.glcmnb.view;
 
 import com.alee.laf.progressbar.WebProgressBar;
 import java.awt.BorderLayout;

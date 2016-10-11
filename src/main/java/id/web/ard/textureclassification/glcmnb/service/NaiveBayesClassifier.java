@@ -3,9 +3,9 @@
  *
  */
 
-package id.web.ard.textureclassification.glcm.nb.service;
+package id.web.ard.textureclassification.glcmnb.service;
 
-import id.web.ard.textureclassification.glcm.nb.model.TrainingData;
+import id.web.ard.textureclassification.glcmnb.model.TrainingData;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;

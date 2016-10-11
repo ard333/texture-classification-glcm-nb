@@ -3,11 +3,11 @@
  *
  */
 
-package id.web.ard.textureclassification.glcm.nb;
+package id.web.ard.textureclassification.glcmnb;
 
 import com.alee.laf.WebLookAndFeel;
-import id.web.ard.textureclassification.glcm.nb.controller.MainController;
-import id.web.ard.textureclassification.glcm.nb.view.LoadingFrame;
+import id.web.ard.textureclassification.glcmnb.controller.MainController;
+import id.web.ard.textureclassification.glcmnb.view.LoadingFrame;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.UIManager;

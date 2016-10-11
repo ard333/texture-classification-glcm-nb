@@ -3,7 +3,7 @@
  *
  */
 
-package id.web.ard.textureclassification.glcm.nb.view;
+package id.web.ard.textureclassification.glcmnb.view;
 
 import java.awt.BorderLayout;
 import java.awt.GridLayout;

@@ -3,10 +3,10 @@
  *
  */
 
-package id.web.ard.textureclassification.glcm.nb.view;
+package id.web.ard.textureclassification.glcmnb.view;
 
-import id.web.ard.textureclassification.glcm.nb.model.NameClassPair;
-import id.web.ard.textureclassification.glcm.nb.model.NameClassTM;
+import id.web.ard.textureclassification.glcmnb.model.NameClassPair;
+import id.web.ard.textureclassification.glcmnb.model.NameClassTM;
 import java.awt.BorderLayout;
 import java.awt.FlowLayout;
 import java.awt.GridLayout;

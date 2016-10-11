@@ -3,16 +3,16 @@
  *
  */
 
-package id.web.ard.textureclassification.glcm.nb.controller;
+package id.web.ard.textureclassification.glcmnb.controller;
 
-import id.web.ard.textureclassification.glcm.nb.model.TextureClass;
-import id.web.ard.textureclassification.glcm.nb.model.NameClassPair;
-import id.web.ard.textureclassification.glcm.nb.model.TrainingData;
-import id.web.ard.textureclassification.glcm.nb.service.GLCMFeatureExtraction;
-import id.web.ard.textureclassification.glcm.nb.service.NaiveBayesClassifier;
-import id.web.ard.textureclassification.glcm.nb.view.ImageChooser;
-import id.web.ard.textureclassification.glcm.nb.view.LoadingFrame;
-import id.web.ard.textureclassification.glcm.nb.view.MainFrame;
+import id.web.ard.textureclassification.glcmnb.model.TextureClass;
+import id.web.ard.textureclassification.glcmnb.model.NameClassPair;
+import id.web.ard.textureclassification.glcmnb.model.TrainingData;
+import id.web.ard.textureclassification.glcmnb.service.GLCMFeatureExtraction;
+import id.web.ard.textureclassification.glcmnb.service.NaiveBayesClassifier;
+import id.web.ard.textureclassification.glcmnb.view.ImageChooser;
+import id.web.ard.textureclassification.glcmnb.view.LoadingFrame;
+import id.web.ard.textureclassification.glcmnb.view.MainFrame;
 import java.awt.event.ActionEvent;
 import java.io.BufferedInputStream;
 import java.io.File;

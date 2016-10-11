@@ -3,7 +3,7 @@
  *
  */
 
-package id.web.ard.textureclassification.glcm.nb.service;
+package id.web.ard.textureclassification.glcmnb.service;
 
 import java.awt.Color;
 import java.awt.image.BufferedImage;
