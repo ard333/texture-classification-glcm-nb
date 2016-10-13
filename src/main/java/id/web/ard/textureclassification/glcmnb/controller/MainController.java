@@ -65,6 +65,7 @@ public class MainController {
 	
 	private ArrayList<String> chooseData() {
 		ArrayList<String> trainingDataPath = new ArrayList<>();
+		td = new ArrayList<>();
 		
 		ImageChooser wavChooser = new ImageChooser();
 		wavChooser.setMultiSelectionEnabled(true);
