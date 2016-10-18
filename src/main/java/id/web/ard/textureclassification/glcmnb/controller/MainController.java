@@ -114,12 +114,12 @@ public class MainController {
 			
 			ArrayList<NameClassPair> nameClassPair = new ArrayList<>();
 			
-			Pattern pattern = Pattern.compile("([1-"+TextureClass.values().length+"]){1}(\\.){1}jpg|png$");
+			Pattern pattern = Pattern.compile("(\\.){1}([1-"+TextureClass.values().length+"]){1}(\\.){1}jpg|png$");
 			Runnable extractAndTrain = () -> {
 				for (String filePath : trainingDataPath) {
 					Matcher matcher = pattern.matcher(filePath);
 					if (matcher.find()) {
-						int indexClass = Integer.parseInt(matcher.group(1));
+						int indexClass = Integer.parseInt(matcher.group(2));
 						nameClassPair.add(new NameClassPair(
 								filePath,
 								String.valueOf(TextureClass.values()[indexClass-1])
