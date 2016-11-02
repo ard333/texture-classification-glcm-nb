@@ -114,7 +114,7 @@ public class MainController {
 			
 			ArrayList<NameClassPair> nameClassPair = new ArrayList<>();
 			
-			Pattern pattern = Pattern.compile("(\\.){1}([1-"+TextureClass.values().length+"]){1}(\\.){1}jpg|png$");
+			Pattern pattern = Pattern.compile("(\\.){1}([1-"+TextureClass.values().length+"])+(\\.){1}jpg|png$");
 			Runnable extractAndTrain = () -> {
 				for (String filePath : trainingDataPath) {
 					Matcher matcher = pattern.matcher(filePath);
