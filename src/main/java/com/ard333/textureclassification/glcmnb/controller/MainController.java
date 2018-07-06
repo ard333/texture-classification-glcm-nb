@@ -1,18 +1,13 @@
-/**
- * Ardiansyah | http://ard.web.id
- *
- */
+package com.ard333.textureclassification.glcmnb.controller;
 
-package id.web.ard.textureclassification.glcmnb.controller;
-
-import id.web.ard.textureclassification.glcmnb.model.TextureClass;
-import id.web.ard.textureclassification.glcmnb.model.NameClassPair;
-import id.web.ard.textureclassification.glcmnb.model.TrainingData;
-import id.web.ard.textureclassification.glcmnb.service.GLCMFeatureExtraction;
-import id.web.ard.textureclassification.glcmnb.service.NaiveBayesClassifier;
-import id.web.ard.textureclassification.glcmnb.view.ImageChooser;
-import id.web.ard.textureclassification.glcmnb.view.LoadingFrame;
-import id.web.ard.textureclassification.glcmnb.view.MainFrame;
+import com.ard333.textureclassification.glcmnb.model.TextureClass;
+import com.ard333.textureclassification.glcmnb.model.NameClassPair;
+import com.ard333.textureclassification.glcmnb.model.TrainingData;
+import com.ard333.textureclassification.glcmnb.service.GLCMFeatureExtraction;
+import com.ard333.textureclassification.glcmnb.service.NaiveBayesClassifier;
+import com.ard333.textureclassification.glcmnb.view.ImageChooser;
+import com.ard333.textureclassification.glcmnb.view.LoadingFrame;
+import com.ard333.textureclassification.glcmnb.view.MainFrame;
 import java.awt.event.ActionEvent;
 import java.io.BufferedInputStream;
 import java.io.File;

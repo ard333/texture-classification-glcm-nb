@@ -1,9 +1,4 @@
-/**
- * Ardiansyah | http://ard.web.id
- *
- */
-
-package id.web.ard.textureclassification.glcmnb.service;
+package com.ard333.textureclassification.glcmnb.service;
 
 import java.awt.Color;
 import java.awt.image.BufferedImage;

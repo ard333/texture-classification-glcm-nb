@@ -1,11 +1,6 @@
-/**
- * Ardiansyah | http://ard.web.id
- *
- */
+package com.ard333.textureclassification.glcmnb.service;
 
-package id.web.ard.textureclassification.glcmnb.service;
-
-import id.web.ard.textureclassification.glcmnb.model.TrainingData;
+import com.ard333.textureclassification.glcmnb.model.TrainingData;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;

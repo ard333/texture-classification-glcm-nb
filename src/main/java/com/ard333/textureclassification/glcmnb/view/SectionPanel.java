@@ -1,12 +1,7 @@
-/**
- * Ardiansyah | http://ard.web.id
- *
- */
+package com.ard333.textureclassification.glcmnb.view;
 
-package id.web.ard.textureclassification.glcmnb.view;
-
-import id.web.ard.textureclassification.glcmnb.model.NameClassPair;
-import id.web.ard.textureclassification.glcmnb.model.NameClassTM;
+import com.ard333.textureclassification.glcmnb.model.NameClassPair;
+import com.ard333.textureclassification.glcmnb.model.NameClassTM;
 import java.awt.BorderLayout;
 import java.awt.FlowLayout;
 import java.awt.GridLayout;

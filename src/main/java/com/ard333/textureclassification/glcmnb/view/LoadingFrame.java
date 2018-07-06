@@ -1,9 +1,4 @@
-/**
- * Ardiansyah | http://ard.web.id
- *
- */
-
-package id.web.ard.textureclassification.glcmnb.view;
+package com.ard333.textureclassification.glcmnb.view;
 
 import com.alee.laf.progressbar.WebProgressBar;
 import java.awt.BorderLayout;

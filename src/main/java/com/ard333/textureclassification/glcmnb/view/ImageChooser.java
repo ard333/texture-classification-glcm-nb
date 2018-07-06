@@ -1,12 +1,7 @@
-/**
- * Ardiansyah | http://ard.web.id
- *
- */
-
-package id.web.ard.textureclassification.glcmnb.view;
+package com.ard333.textureclassification.glcmnb.view;
 
 
-import id.web.ard.textureclassification.glcmnb.filter.ImageFilter;
+import com.ard333.textureclassification.glcmnb.filter.ImageFilter;
 import javax.swing.JFileChooser;
 
 /**

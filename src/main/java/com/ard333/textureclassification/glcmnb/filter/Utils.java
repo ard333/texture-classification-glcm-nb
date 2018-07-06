@@ -1,9 +1,4 @@
-/**
- * Ardiansyah | http://ard.web.id
- *
- */
-
-package id.web.ard.textureclassification.glcmnb.filter;
+package com.ard333.textureclassification.glcmnb.filter;
 
 import java.io.File;
 

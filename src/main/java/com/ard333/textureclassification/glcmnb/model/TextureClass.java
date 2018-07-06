@@ -1,4 +1,4 @@
-package id.web.ard.textureclassification.glcmnb.model;
+package com.ard333.textureclassification.glcmnb.model;
 
 /**
  *
