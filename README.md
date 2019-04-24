@@ -7,7 +7,7 @@ Dataset can be found [here](http://www-cvr.ai.uiuc.edu/ponce_grp/data/), at the 
 ### Texture listed
 Class of Texture is located at
 ```
-id.web.ard.textureclassification.glcmnb.model.TextureClass.java
+com.ard333.textureclassification.glcmnb.model.TextureClass.java
 ```
 you can add or remove the class that will be used.
 
