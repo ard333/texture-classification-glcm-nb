@@ -12,7 +12,7 @@ com.ard333.textureclassification.glcmnb.model.TextureClass.java
 you can add or remove the class that will be used.
 
 ### Naming the Training Data
-You must add the **[dot]index of class** at the end of the file name, example:
+You must add the **(dot)(index of class @TextureClass +1)** at the end of the file name, example:
 
 * wood1.1.jpg
 * wood2.1.jpg
