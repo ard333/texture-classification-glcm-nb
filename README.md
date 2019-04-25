@@ -14,10 +14,10 @@ you can add or remove the class that will be used.
 ### Naming the Training Data
 You must add the **[dot]index of class** at the end of the file name, example:
 
-* wood1**.1**.jpg
-* wood2**.1**.jpg
-* wood3**.1**.jpg
-* brick1**.2**.jpg
-* brick2**.2**.jpg
-* brick3**.2**.jpg
+* wood1.1.jpg
+* wood2.1.jpg
+* wood3.1.jpg
+* brick1.2.jpg
+* brick2.2.jpg
+* brick3.2.jpg
 * and so on...
