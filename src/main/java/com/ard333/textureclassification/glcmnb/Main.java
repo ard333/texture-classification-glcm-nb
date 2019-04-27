@@ -1,4 +1,4 @@
-package id.web.ard.textureclassification.glcmnb;
+package com.ard333.textureclassification.glcmnb;
 
 import com.alee.laf.WebLookAndFeel;
 import com.ard333.textureclassification.glcmnb.controller.MainController;
